@@ -2,7 +2,7 @@ package lab3.lab3_package;
 
 /**
  * Класс ArrayListExamples, предназначенный для создания объекта коллекции ArrayList и её методов
- * @author Арсёнов Дмитрий, 7 группа, ММИО
+ * @author Щербакова Диана, 5 группа,
  * @version 1.12.544
  */
 

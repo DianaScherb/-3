@@ -2,8 +2,8 @@ package lab3.lab3_package;
 
 /**
  * Класс Car, предназначенный для заполнения ArrayList и LinkedList
- * @author Арсёнов Дмитрий, 7 группа, ММИО
- * @version 1.0.0
+ * @author Щербакова Диана, 5 группа,
+  * @version 1.0.0
  */
 
 import java.util.Objects;

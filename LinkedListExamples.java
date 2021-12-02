@@ -2,7 +2,7 @@ package lab3.lab3_package;
 
 /**
  * Класс LinkedListExamples, предназначенный для создания объекта коллекции LinkedList и её методов
- * @author Арсёнов Дмитрий, 7 группа, ММИО
+ * @author Диана Щербакова 5 группа, 
  * @version 1.1.12
  */
 
